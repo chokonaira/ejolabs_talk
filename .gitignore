@@ -10,3 +10,4 @@ node_modules/
 .slide-cleanup/
 .chroma/
 *.index.json
+.vercel/
