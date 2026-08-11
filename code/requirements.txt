@@ -1,0 +1,21 @@
+# NOTHING HERE IS REQUIRED.
+#
+# Every numbered script runs on a clean Python 3.10+ with no packages at all,
+# no API key and no internet. That is deliberate: a dead wifi connection or an
+# unapproved key must not stop you learning this.
+#
+# Install these only when you want the thing they unlock.
+
+# Calling the live EjoChat API instead of the offline mock.
+requests>=2.31
+
+# Real embedding models instead of the hashing baseline.
+# ~120 MB to ~1.8 GB of model weights depending on which model you load.
+# Download at home:  python3 setup_check.py --download <model-name>
+# sentence-transformers>=3.0
+
+# Chroma, a local vector database.
+# chromadb>=0.5
+
+# PostgreSQL with pgvector. Often a good answer for a capstone.
+# psycopg[binary]>=3.1

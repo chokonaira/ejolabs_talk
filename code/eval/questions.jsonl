@@ -1,0 +1,16 @@
+{"question": "What number do I call at the weekend?", "source": "kanombe-clinic.md", "section": "Emergency contact", "note": "the question the whole session is built around"}
+{"question": "Who answers the phone at night?", "source": "kanombe-clinic.md", "section": "Emergency contact", "note": "same fact, none of the same words"}
+{"question": "What time does the clinic close on a weekday?", "source": "kanombe-clinic.md", "section": "Opening hours", "note": null}
+{"question": "Is the clinic open on Sunday?", "source": "kanombe-clinic.md", "section": "Opening hours", "note": null}
+{"question": "Which number do I ring to book an appointment?", "source": "kanombe-clinic.md", "section": "General reception", "note": "must not be confused with the emergency number"}
+{"question": "Where is the clinic?", "source": "kanombe-clinic.md", "section": "Location", "note": null}
+{"question": "What do I need to bring to register as a new patient?", "source": "kanombe-clinic.md", "section": "Registration", "note": null}
+{"question": "How many doctors work at the clinic?", "source": "kanombe-clinic.md", "section": "Staff on duty", "note": null}
+{"question": "How much is a consultation without insurance?", "source": "kanombe-fees.md", "section": "Consultation", "note": null}
+{"question": "What does a malaria test cost?", "source": "kanombe-fees.md", "section": "Laboratory tests", "note": null}
+{"question": "Do I have to pay for antenatal check-ups?", "source": "kanombe-fees.md", "section": "Maternity", "note": "answer is no; a negative fact"}
+{"question": "Can I pay with a bank card?", "source": "kanombe-fees.md", "section": "Payment", "note": "answer is no; a negative fact"}
+{"question": "Which day are children vaccinated?", "source": "kanombe-services.md", "section": "Vaccination", "note": null}
+{"question": "Is an HIV test free?", "source": "kanombe-services.md", "section": "Testing and screening", "note": null}
+{"question": "Where am I sent if my case is serious?", "source": "kanombe-services.md", "section": "Referrals", "note": null}
+{"question": "How do I book a counselling appointment?", "source": "kanombe-services.md", "section": "Counselling", "note": null}

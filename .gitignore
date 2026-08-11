@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.local
+.env.*.local
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.slide-cleanup/
+.chroma/
+*.index.json
