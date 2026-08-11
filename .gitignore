@@ -8,6 +8,7 @@ __pycache__/
 venv/
 node_modules/
 .slide-cleanup/
+slides/session-5-rag-clean/
 .chroma/
 *.index.json
 .vercel/

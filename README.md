@@ -34,6 +34,20 @@ python3 run_lesson.py quick
 If `python3` works, you are ready.
 The rest of the commands below assume your terminal is still inside `code/`.
 
+## Present With Slides
+
+Use this when you are ready to present:
+
+```bash
+cd ejolabs_talk/code
+open ../slides/session-5-rag-clean.pptx
+python3 run_lesson.py quick
+```
+
+The `open` command is for macOS. On Windows or Linux, open
+`slides/session-5-rag-clean.pptx` manually, then run the Python command from
+the `code/` folder.
+
 If your terminal says `python: command not found`, use `python3`. If it says
 `python3: command not found`, install Python 3.10 or newer from
 <https://www.python.org/downloads/>.
